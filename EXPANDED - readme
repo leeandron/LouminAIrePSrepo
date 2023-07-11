@@ -60,7 +60,7 @@ Name Resolution: The semantic analysis stage will resolve variable names and ref
 
 Section: Intermediate Representation
 
-In the intermediate representation stage, we create an intermediate representation (IR) of the code that serves as a bridge between the high-level code and the final executable code. The IR is a simplified and optimized form of the code that is easier to work with for subsequent stages.
+In the intermediate representation stage, we create an intermediate representation (IR) of the code that serves as a bridge between the high-level code and the final executable code. The IR is a simplified and optimized form of code that is easier to work with for subsequent stages.
 
 Example:
 
